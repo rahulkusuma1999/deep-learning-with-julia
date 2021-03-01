@@ -2,4 +2,4 @@
 
 <h1>A intro to Deep learning with Julia</h1>
 
-> Here i  have used FLux for deep learning model development 
+> Using Julia deeplearning libraries such as Flux to build basic Deep Learning models 
